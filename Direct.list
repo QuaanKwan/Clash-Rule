@@ -1,4 +1,7 @@
 # 内容：Steam可直连域名
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 # DOMAIN,csgo.wmsj.cn
 # DOMAIN,dota2.wmsj.cn
 # DOMAIN,wmsjsteam.com
